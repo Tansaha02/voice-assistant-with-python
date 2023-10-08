@@ -89,7 +89,7 @@ def send_whatsapp_message(phone_number, message):
 
 
 if __name__=="__main__":
-    speak(f"welcome {author},I am  tanmoy saha the attitude king")
+    speak(f"welcome {author},I am  tanmoy saha ")
     wishMe()
     record_audio()
     while True:
